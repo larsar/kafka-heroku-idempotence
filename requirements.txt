@@ -1,6 +1,6 @@
 cffi==1.13.2
 confluent-kafka==1.2.0
-cryptography==2.8
+cryptography==3.2
 pycparser==2.19
 pyOpenSSL==19.0.0
 python-dotenv==0.10.3
